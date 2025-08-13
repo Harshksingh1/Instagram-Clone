@@ -11,7 +11,7 @@ This project replicates the basic layout and design of Instagram’s user interf
 - Pure HTML and CSS (no frameworks)
 
 ## Demo
-
+https://hkinsta.netlify.app/
 
 ## How to Use
 1. Clone the repository:
